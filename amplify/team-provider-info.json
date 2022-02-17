@@ -1,0 +1,25 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-artistapp01-staging-180420-authRole",
+      "UnauthRoleArn": "arn:aws:iam::123771716718:role/amplify-artistapp01-staging-180420-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::123771716718:role/amplify-artistapp01-staging-180420-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-artistapp01-staging-180420-deployment",
+      "UnauthRoleName": "amplify-artistapp01-staging-180420-unauthRole",
+      "StackName": "amplify-artistapp01-staging-180420",
+      "StackId": "arn:aws:cloudformation:eu-west-2:123771716718:stack/amplify-artistapp01-staging-180420/ddaa52a0-8f52-11ec-9782-0a8a5ddbabd8",
+      "AmplifyAppId": "dkj5ypbszm4hi"
+    },
+    "categories": {
+      "auth": {
+        "artistapp01": {
+          "userPoolId": "eu-west-2_mpPFL9fz2",
+          "userPoolName": "ArtistAppUserPool",
+          "webClientId": "1hdph4mo2jdb2sgscsvbqa1pn1",
+          "nativeClientId": "1hdph4mo2jdb2sgscsvbqa1pn1"
+        }
+      }
+    }
+  }
+}
